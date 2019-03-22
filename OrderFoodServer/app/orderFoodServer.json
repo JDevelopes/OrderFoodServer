@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "928380085827",
+    "firebase_url": "https://order-food-41e9f.firebaseio.com",
+    "project_id": "order-food-41e9f",
+    "storage_bucket": "order-food-41e9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928380085827:android:6f7809c3a2157b66",
+        "android_client_info": {
+          "package_name": "com.orderfood.teknomerkez.orderfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928380085827-b8gn131riakfide23sq7uetf8m2puhif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orderfood.teknomerkez.orderfood",
+            "certificate_hash": "e20f3a17e2c2f13f733851af09f62ccdb20c9dec"
+          }
+        },
+        {
+          "client_id": "928380085827-ja8ruouk3kqeifsoq7d4qu35ciioa31n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "928380085827-ja8ruouk3kqeifsoq7d4qu35ciioa31n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsIypX4cvFzbaVVeJ86jzg9RXydRX2QHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928380085827-ja8ruouk3kqeifsoq7d4qu35ciioa31n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928380085827:android:0e7694bd33922134",
+        "android_client_info": {
+          "package_name": "com.orderfoodserver.teknomerkez.orderfoodserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928380085827-e71h0f7l4t9ame3uj8ch667f045m72du.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orderfoodserver.teknomerkez.orderfoodserver",
+            "certificate_hash": "e20f3a17e2c2f13f733851af09f62ccdb20c9dec"
+          }
+        },
+        {
+          "client_id": "928380085827-ja8ruouk3kqeifsoq7d4qu35ciioa31n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "928380085827-ja8ruouk3kqeifsoq7d4qu35ciioa31n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsIypX4cvFzbaVVeJ86jzg9RXydRX2QHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928380085827-ja8ruouk3kqeifsoq7d4qu35ciioa31n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
